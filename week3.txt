@@ -34,3 +34,9 @@ DOM
 The in-memory representation of an HTML document 
 
 what follows the / in a web address is a route 
+
+HTML
+    headers
+        h1 - h6
+        h1 is the most importand and then down the line
+    crawling search engines use title and then h1 tags 
