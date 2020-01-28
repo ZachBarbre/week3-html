@@ -1,3 +1,36 @@
 Week of 1-25-20 
 
 1-26-20
+
+web in interconnected servers
+DNS - domain name service  
+IP addresss is a unique idenifier for each machine/server etc
+server is software that servers up content. 
+    can be a machine (remote or local) or just code 
+
+front-end: stuff people can see and click on ux/ui
+back-end: all the parts you can't see (the parts that make it work?)
+full-stack: combine the two parts into one 
+
+Device is on a network with ip addresss
+    Request
+    Response (Req/Res)
+
+Get HTTP/1.1
+
+HTTP/1.1 200 OK (200 is the OK Status code)
+
+browser jobs:
+    parse HTML
+    render CSS
+    execute JavaScript
+
+    (parse, render, execute)
+
+DOM 
+    Document 
+    Object 
+    Model
+The in-memory representation of an HTML document 
+
+what follows the / in a web address is a route 
