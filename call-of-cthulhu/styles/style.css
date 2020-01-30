@@ -1,0 +1,19 @@
+html {
+    box-sizing: border-box;
+    /* 16px is the default for most browsers */
+    font-size: 16px;
+  }
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+
+  nav {
+      float: right;
+  }
+  
+  .nav-list li {
+      display: inline-block;
+  }

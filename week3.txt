@@ -40,3 +40,32 @@ HTML
         h1 - h6
         h1 is the most importand and then down the line
     crawling search engines use title and then h1 tags 
+
+1-29-20
+
+    unordered list
+        does not need to be stacked, can be inline
+        default is dot. can be changed into disc or dash easily. 
+        can be changed to other things as well
+
+    inline element is OK inside a block element. 
+    Do not wrap block element inside an inline element
+
+CSS Box Model
+    Content inside the border. 
+    Padding is space inside border and outside content 
+    margin is outside of the border and between elements 
+
+                Content
+            Padding
+        border
+    margin
+
+em, rem, px and % 
+    em is reletive to the parent class 
+    rem is reletive to the top level class (ie. where an absolute is defined)
+
+    sean uses:
+        boarders in pixels
+        boxes/spacing in % 
+        fonts in rem
